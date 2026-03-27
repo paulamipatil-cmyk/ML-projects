@@ -1,8 +1,8 @@
-Quantitative Finance Portfolio:
+# Quantitative Finance Portfolio:
 
 This repository contains independent quantitative research projects completed as part of graduate-level finance coursework. Each project combines Python-based data analysis with investment insight, covering macroeconomic forecasting, equity regression modeling, NLP-driven sentiment analysis, and portfolio performance evaluation.
 
-Projects
+# Projects
 1. Economic Forecast & Investment Recommendation
 Files: Economic_Forecast_based_Investment_Recs.ipynb · Economic_Forecast_based_Investment_Recs.pdf
 Macroeconomic analysis of the US economy used to derive a forward-looking investment recommendation. Covers GDP growth by sector, unemployment and inflation trends, CPI dynamics, and FOMC sentiment analysis using the OpenAI API. Forecasts were generated using ARIMA time-series modeling and Reddit sentiment scraping via the PRAW library.
@@ -23,7 +23,7 @@ Files: Fund_Performance___Volatility_Analysis.ipynb
 Quantitative performance comparison of eight actively managed mutual funds (SGENX, FAGAX, STAEX, BIAGX, ESEAX, TGVFX, MIGFX, BIAGX) against the S&P 500 Total Return benchmark (^SP500TR) over a 10-year period (2014–2024). Analysis covers historical returns, annualized volatility, Sharpe ratios, rolling correlations, and drawdown analysis to assess whether active management generates alpha over the benchmark.
 Key techniques: yfinance data retrieval · Annualized return & volatility · Sharpe ratio · Rolling correlation · Maximum drawdown · Benchmark comparison
 
-About:
+# About
 These projects were completed as part of the MBA Finance curriculum at Baruch College's Zicklin School of Business. They reflect self-directed application of quantitative methods to real financial data, developed alongside formal coursework in Econometrics, Quantitative Modeling, and Corporate Finance.
 
 
