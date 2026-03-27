@@ -23,7 +23,7 @@ Files: Fund_Performance___Volatility_Analysis.ipynb
 Quantitative performance comparison of eight actively managed mutual funds (SGENX, FAGAX, STAEX, BIAGX, ESEAX, TGVFX, MIGFX, BIAGX) against the S&P 500 Total Return benchmark (^SP500TR) over a 10-year period (2014–2024). Analysis covers historical returns, annualized volatility, Sharpe ratios, rolling correlations, and drawdown analysis to assess whether active management generates alpha over the benchmark.
 Key techniques: yfinance data retrieval · Annualized return & volatility · Sharpe ratio · Rolling correlation · Maximum drawdown · Benchmark comparison
 
-About
+About:
 These projects were completed as part of the MBA Finance curriculum at Baruch College's Zicklin School of Business. They reflect self-directed application of quantitative methods to real financial data, developed alongside formal coursework in Econometrics, Quantitative Modeling, and Corporate Finance.
 
 
