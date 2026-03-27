@@ -1,5 +1,5 @@
-Quantitative Finance Portfolio
-Paulami Patil | MBA (Focus: Finance), Baruch College, Zicklin School of Business | CFA Level I passed
+Quantitative Finance Portfolio:
+
 This repository contains independent quantitative research projects completed as part of graduate-level finance coursework. Each project combines Python-based data analysis with investment insight, covering macroeconomic forecasting, equity regression modeling, NLP-driven sentiment analysis, and portfolio performance evaluation.
 
 Projects
@@ -16,10 +16,7 @@ Key techniques: Linear · Huber · RANSAC · Theil-Sen regression · Beta estima
 3. ML-Based Sentiment Analysis — Predicting S&P 500 Direction
 Files: Sentiment_Analysis.ipynb · MLbased_Sentiment_Analysis.pdf
 Machine learning classification models trained on WallStreetBets Reddit comments to predict next-day S&P 500 market direction (Up/Down). Three methodologies are compared: Naïve Bayes at comment level, Naïve Bayes on daily average sentiment, and a Support Vector Machine (SVM) using bag-of-words features. Naïve Bayes achieves the highest accuracy (~60.8%) with stronger precision than the SVM.
-Key techniques: VADER sentiment scoring · Naïve Bayes classification · Support Vector Machine · Confusion matrix analysis · Precision / Recall evaluation · NLP feature extraction4. Fund Performance & Volatility Analysis — Mutual Funds vs. S&P 500
-Files: Fund_Performance___Volatility_Analysis.ipynb
-Quantitative performance comparison of eight actively managed mutual funds (SGENX, FAGAX, STAEX, BIAGX, ESEAX, TGVFX, MIGFX, BIAGX) against the S&P 500 Total Return benchmark (^SP500TR) over a 10-year period (2014–2024). Analysis covers historical returns, annualized volatility, Sharpe ratios, rolling correlations, and drawdown analysis to assess whether active management generates alpha over the benchmark.
-Key techniques: yfinance data retrieval · Annualized return & volatility · Sharpe ratio · Rolling correlation · Maximum drawdown · Benchmark comparison
+Key techniques: VADER sentiment scoring · Naïve Bayes classification · Support Vector Machine · Confusion matrix analysis · Precision / Recall evaluation · NLP feature extraction4. 
 
 4. Fund Performance & Volatility Analysis — Mutual Funds vs. S&P 500
 Files: Fund_Performance___Volatility_Analysis.ipynb
@@ -28,5 +25,5 @@ Key techniques: yfinance data retrieval · Annualized return & volatility · Sha
 
 About
 These projects were completed as part of the MBA Finance curriculum at Baruch College's Zicklin School of Business. They reflect self-directed application of quantitative methods to real financial data, developed alongside formal coursework in Econometrics, Quantitative Modeling, and Corporate Finance.
-Contact: paulamipatil@gmail.com · LinkedIn
+
 
